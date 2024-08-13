@@ -5,6 +5,7 @@ Topics used in labs/programs:
 * Stacks
 * Heaps
 * Hash tables
+* Vectors
 * Major search trees 
 * Major sorting algorithms
 
